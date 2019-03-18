@@ -1,11 +1,16 @@
 _repo: Peru-as-It-Is-Volume-II-of-2-A-Residence-in-Lima-and-Other-Parts-of-the-Peruvian-Republic-Com__59063
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59063-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Archibald
     gutenberg_agent_id: '50281'
     url: http://www.gutenberg.org/2009/agents/50281
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59063#Peru-as-It-Is-Volume-II-of-2-A-Residence-in-Lima-and-Other-Parts-of-the-Peruvian-Republic-Com_
 gutenberg_issued: '2019-03-15'
 gutenberg_type: Text
 identifiers:
